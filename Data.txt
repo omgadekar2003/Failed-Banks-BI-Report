@@ -1,0 +1,9 @@
+CSV file address:
+
+https://www.fdic.gov/bank/individual/failed/banklist.csv
+
+
+Search on google:
+1. Search: data.gov
+2. Click on link & then search FDIC Failed Banks
+3. Click on first one & download CSV.
